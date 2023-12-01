@@ -1,0 +1,179 @@
+/* Your styles here */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+
+header {
+  background-color: #222f3f;
+  height: 70px;
+}
+
+header #logoTop {
+  padding-top: 10px;
+  height: 40px;
+}
+
+.logoDivTop {
+  width: 95%;
+  margin: auto;
+}
+
+nav {
+  padding-top: 20px;
+  text-decoration: none;
+  background-color: #364759;
+  height: 35px;
+}
+
+nav a {
+  color: #fff;
+  font-weight: 300;
+  padding-right: 10px;
+  font-size: small;
+  width: 95%;
+  margin: auto;
+}
+
+.navDiv {
+  width: 95%;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  width: 90%;
+  margin: auto;
+}
+
+.banner1 {
+  text-align: center;
+  background-color: #f56600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+  padding: 10px;
+}
+
+.bis {
+  background-image: url(../images/bg-image.png);
+  background-size: contain;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.bis .bistext1 {
+  text-align: center;
+  padding-top: 50px;
+  color: #fff;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.bis .bistext1 .bistext2 {
+  padding-top: 2px;
+  font-size: small;
+}
+
+.top {
+  background-color: #fff;
+}
+
+.text {
+  padding-top: 10px;
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+#linkTop {
+  margin-left: 10px;
+  font-size: small;
+  font-weight: bold;
+  color: #275f6d;
+}
+
+.aside {
+  display: flex;
+}
+
+.relatedArticle {
+  width: 25%;
+  margin: 1rem;
+}
+
+.relatedArticle .relatedpicture {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+  border-radius: 15px;
+  -webkit-box-shadow: 11px 8px 15px -1px rgba(184, 184, 184, 0.63);
+  box-shadow: 11px 8px 15px -1px rgba(184, 184, 184, 0.63);
+}
+
+.midText {
+  margin: auto;
+}
+
+.mid {
+  background-image: url(../images/img_9.png);
+  height: 300px;
+  background-size: cover;
+  margin-top: 20px;
+}
+
+.midText {
+  text-align: center;
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+#linkMid {
+  padding-left: 10px;
+  font-size: small;
+  font-weight: bold;
+  color: #275f6d;
+}
+
+.bottom {
+  background-image: url(../images/img_10.png);
+  height: 300px;
+  background-size: cover;
+  margin-top: 20px;
+}
+
+#linkBot {
+  padding-left: 10px;
+  font-size: small;
+  font-weight: bold;
+  color: #275f6d;
+}
+
+#linkToTop {
+  text-decoration: underline;
+  color: #ffffff;
+  font-size: small;
+  font-weight: bold;
+}
+
+.backToTop {
+  text-align: center;
+  background-color: #364759;
+  margin-top: 20px;
+  height: 40px;
+  padding-top: 20px;
+}
+
+footer {
+  background-color: #222f3f;
+  height: 80px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+footer #logoBot {
+  height: 50px;
+}
